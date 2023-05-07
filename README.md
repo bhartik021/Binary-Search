@@ -29,9 +29,9 @@ Each pattern is explained in detail and illustrated with examples in the reposit
 ## Classic Binary Search Problems
 The 42 classic binary search problems cover a range of topics and difficulty levels, including:
 
-| S. No. | Problem Name | Problem No. | Problem Link | Problem Level | Solution |
+| S. No. | Problem Name | Problem No. | Problem Link | Problem Level | Solution Folder |
 | ------ | ------------ | ----------- | ------------ | ------------- | -------- |
-| 1 | Binary Search | 704 |https://leetcode.com/problems/binary-search/?envType=study-plan-v2&id=binary-search | Easy | |
+| 1 | Binary Search | 704 |https://leetcode.com/problems/binary-search/?envType=study-plan-v2&id=binary-search | Easy | [Solution](https://github.com/bhartik021/Binary-Search/tree/main/704.%20Binary%20Search) |
 | 2 | Search Insert Position | 35 | https://leetcode.com/problems/search-insert-position/?envType=study-plan-v2&id=binary-search | Easy | |
 
 ## License
