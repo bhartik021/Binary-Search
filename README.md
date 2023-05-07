@@ -33,6 +33,7 @@ The 42 classic binary search problems cover a range of topics and difficulty lev
 | ------ | ------------ | ----------- | ------------ | ------------- | -------- |
 | 1 | Binary Search | 704 |[Link](https://leetcode.com/problems/binary-search/?envType=study-plan-v2&id=binary-search) | Easy | [Solution](https://github.com/bhartik021/Binary-Search/tree/main/704.%20Binary%20Search) |
 | 2 | Search Insert Position | 35 | [Link](https://leetcode.com/problems/search-insert-position/?envType=study-plan-v2&id=binary-search) | Easy | [Solution](https://github.com/bhartik021/Binary-Search/tree/main/35.%20Search%20Insert%20Position) |
+| 3 | Find Smallest Letter Greater Than Target | 744 | [Link](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | Easy | [Solution](https://github.com/bhartik021/Binary-Search/tree/main/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target) |
 
 ## License
 This repository is licensed under the MIT License. See the LICENSE file for more information.
